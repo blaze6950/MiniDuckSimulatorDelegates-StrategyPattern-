@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniDuckSimulator(Delegate)", "MiniDuckSimulator\MiniDuckSimulator(Delegate).csproj", "{3EDF246C-77A7-49D0-B803-249F76B9881E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EDF246C-77A7-49D0-B803-249F76B9881E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EDF246C-77A7-49D0-B803-249F76B9881E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EDF246C-77A7-49D0-B803-249F76B9881E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EDF246C-77A7-49D0-B803-249F76B9881E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB37A819-DB68-4679-AF24-805C54CF2C5C}
+	EndGlobalSection
+EndGlobal
